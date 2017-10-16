@@ -62,7 +62,7 @@ Une machine avec des services
 
 ## HTTPS : certicat SSL et autorité de certification
 
-![cf. schema](./Requête-HTTP-Classique.png)
+![cf. schema](./HTTPSvsHTTP.png)
 
 
 
